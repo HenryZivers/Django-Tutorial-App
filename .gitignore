@@ -1,0 +1,7 @@
+.git/
+
+mysite/settings.py
+mysite/__pycache__/
+polls/__pycache__/
+polls/migrations/
+
